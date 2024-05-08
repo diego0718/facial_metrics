@@ -1,2 +1,2 @@
-# facial_metrics
-This repo contains computations of facial metrics using mediapipe backbone
+# CI/CD simple pipeline
+This repo contains CI/CD pipeline
